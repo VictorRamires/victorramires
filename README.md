@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🔭 Atualmente sou estágiario trabalhando com suporte e curso Engenharia da computação na UFMS 
-- 🌱 Estou estudando ciência de dados e inteligência artificial com Python
+- 🌱 Estou estudando ciência de dados e inteligência artificial com Python.
+- 🎯 Tambem estou aprendendo a criar automações com UIPath e pyautogui.
+-:computer: Adoro resolver problemas do beecrowd e colocar as versões dos códigos no repositório <a href="https://github.com/VictorRamires/urijudge">
 
 <div align="center">
   <a href="https://github.com/victorramires">
